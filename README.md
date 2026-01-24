@@ -40,8 +40,8 @@ Export / import projects as JSON files
 
 ## 🎯 Use Cases
 
--Learning frontend development
--Teaching coding assignments
--Running quick HTML/CSS/JS experiments
--Browser-based coding assessments
--Offline practice environments
+- Learning frontend development
+- Teaching coding assignments
+- Running quick HTML/CSS/JS experiments
+- Browser-based coding assessments
+- Offline practice environments

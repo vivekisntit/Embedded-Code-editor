@@ -28,10 +28,20 @@ Export / import projects as JSON files
 
 ---
 
-🛠️ How It Works
+## 🛠️ How It Works
 
  - Code is written in Ace Editor instances.
  - HTML, CSS, and JS are combined into a single document using srcdoc.
  - The preview runs inside a sandboxed iframe.
  - Optional test code is appended and executed safely.
  - Projects can be saved/restored via JSON or browser storage.
+
+---
+
+## 🎯 Use Cases
+
+-Learning frontend development
+-Teaching coding assignments
+-Running quick HTML/CSS/JS experiments
+-Browser-based coding assessments
+-Offline practice environments

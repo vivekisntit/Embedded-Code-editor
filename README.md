@@ -21,11 +21,10 @@ Add JavaScript-based test code to verify solutions.
 Auto-save to localStorage
 Export / import projects as JSON files
 
-⌨️ Keyboard Shortcuts
-
-- Ctrl + Enter → Run preview
-- Ctrl + S → Save project
-- Ctrl + O → Load project
+- ⌨️ Keyboard Shortcuts
+-- Ctrl + Enter → Run preview
+-- Ctrl + S → Save project
+-- Ctrl + O → Load project
 
 ---
 

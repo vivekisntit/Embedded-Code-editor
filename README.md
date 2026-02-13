@@ -6,29 +6,29 @@ It’s designed for learning, teaching, and prototyping, without requiring any b
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧠 Multi-language editor
+- Multi-language editor
 Write and switch between HTML, CSS, and JavaScript using Ace Editor.
 
-- 👀 Live Preview
+- Live Preview
 Instantly render your code in a sandboxed iframe.
 
-- 🧪  Validation Tests
+- Validation Tests
 Add JavaScript-based test code to verify solutions.
 
-- 💾 Save & Load Projects
+- Save & Load Projects
 Auto-save to localStorage
 Export / import projects as JSON files
 
-- ⌨️ Keyboard Shortcuts
+- Keyboard Shortcuts
  Ctrl + Enter → Run preview
  Ctrl + S → Save project
  Ctrl + O → Load project
 
 ---
 
-## 🛠️ How It Works
+## How It Works
 
  - Code is written in Ace Editor instances.
  - HTML, CSS, and JS are combined into a single document using srcdoc.
@@ -38,7 +38,7 @@ Export / import projects as JSON files
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 - Learning frontend development
 - Teaching coding assignments

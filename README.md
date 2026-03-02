@@ -50,6 +50,14 @@ Export / import projects as JSON files
 - ACE editor API
 
 ---
+## Use Cases
+
+- Learning frontend development
+- Executing coding assignments
+- Running quick HTML/CSS/JS experiments
+- Browser-based coding assessments
+- Offline practice environments
+---
 
 ## Project Structure
 ```bash
@@ -75,12 +83,7 @@ git clone https://github.com/vivekisntit/Embedded-Code-editor.git
 cd Embeded-Code-Editor
 ```
 ---
+## Preview
 
+![result](preview.png)
 
-## Use Cases
-
-- Learning frontend development
-- Executing coding assignments
-- Running quick HTML/CSS/JS experiments
-- Browser-based coding assessments
-- Offline practice environments

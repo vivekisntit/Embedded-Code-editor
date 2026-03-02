@@ -1,0 +1,7 @@
+{
+  "name": "vunno-editor",
+  "version": "1.0.0",
+  "description": "In-browser HTML/CSS/JS code editor with live preview and validation.",
+  "author": "Vivek Gautam",
+  "license": "MIT"
+}

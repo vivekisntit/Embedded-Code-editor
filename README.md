@@ -1,4 +1,4 @@
-## 🚀 Vunno Editor
+# Vunno Editor (In-browser IDE)
 
 Vunno Editor is a lightweight, online code editor for HTML, CSS, and JavaScript with live preview, simple validation tests, and local project, all running within the browser.
 
@@ -6,7 +6,11 @@ It’s designed for learning, teaching, and prototyping, without requiring any b
 
 ---
 
-## Features
+## Project Overview
+
+The project combines ACE editor library with iframe and localStorage. JSON-based project export/import and dynamic code injection with validation support.
+
+**The application provides:**
 
 - Multi-language editor
 Write and switch between HTML, CSS, and JavaScript using Ace Editor.
@@ -28,7 +32,7 @@ Export / import projects as JSON files
 
 ---
 
-## How It Works
+## Core Features
 
  - Code is written in Ace Editor instances.
  - HTML, CSS, and JS are combined into a single document using srcdoc.
@@ -38,10 +42,45 @@ Export / import projects as JSON files
 
 ---
 
+## Tech Stack
+
+- HTML
+- CSS
+- Vanilla JS
+- ACE editor API
+
+---
+
+## Project Structure
+```bash
+Embeded-Code-Editor/
+|
+├── public/
+│   ├── index.html
+│   └── assets/
+│       ├── images/
+│       ├── styles.js
+│       └── app.js
+│
+├── package.json
+├── LICENSE
+└── README.md
+```
+---
+## Setup Instructions
+### Clone the Repository
+
+```bash
+git clone https://github.com/vivekisntit/Embedded-Code-editor.git
+cd Embeded-Code-Editor
+```
+---
+
+
 ## Use Cases
 
 - Learning frontend development
-- Teaching coding assignments
+- Executing coding assignments
 - Running quick HTML/CSS/JS experiments
 - Browser-based coding assessments
 - Offline practice environments
